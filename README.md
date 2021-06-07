@@ -16,3 +16,7 @@ You can customize ReadMoreText with:
 * app:collapsingText: Text that appears when the view is expanded.
 * app:readMoreMaxLines: Max lines to determine when the clickable text is displayed.
 * app:readMoreTextColor: Text color of trim clickable text.
+
+# Screenshots
+<img src="https://github.com/AtineKeshishi/ReadMoreText/blob/master/screenshots/screenshot1.png" width="200" height="400" /> |
+<img src="https://github.com/AtineKeshishi/ReadMoreText/blob/master/screenshots/screenshot2.png" width="200" height="400" />
