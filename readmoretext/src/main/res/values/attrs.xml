@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ReadMoreText">
+        <attr name="collapsingText" format="string" />
+        <attr name="expandingText" format="string" />
+        <attr name="readMoreMaxLines" format="integer" />
+        <attr name="readMoreTextColor" format="color" />
+    </declare-styleable>
+</resources>

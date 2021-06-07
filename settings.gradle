@@ -1,0 +1,3 @@
+rootProject.name = "ReadMoreText"
+include ':app'
+include ':readmoretext'
